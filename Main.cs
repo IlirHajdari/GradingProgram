@@ -40,6 +40,6 @@ public class Program
                 Console.WriteLine("Sorry, you failed. Better luck next time!");
                 
                 //Wait for user to press any key to exit program
-		  		Console.ReadKey();
+		Console.ReadKey();
 	}
 }
